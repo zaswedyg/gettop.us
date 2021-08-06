@@ -1,0 +1,108 @@
+2021-08-04 22:09:02,804 - support.logger - INFO - 
+Started scenario: User sees correct categories under Browse
+2021-08-05 20:26:29,800 - support.logger - INFO - 
+Started scenario: User sees correct categories under Browse
+2021-08-05 20:41:23,906 - support.logger - INFO - 
+Started scenario: User sees correct categories under Browse
+2021-08-05 20:41:33,026 - support.logger - INFO - 
+Started scenario: User sees correct categories under Browse
+2021-08-05 20:50:53,638 - support.logger - INFO - 
+Started scenario: User sees correct categories under Browse
+2021-08-05 20:51:48,942 - support.logger - INFO - 
+Started scenario: User sees correct categories under Browse
+2021-08-05 20:54:38,365 - support.logger - INFO - 
+Started scenario: User sees correct categories under Browse
+2021-08-05 20:54:42,131 - support.logger - INFO - 
+Started step: <given "Open main page">
+2021-08-05 20:54:42,139 - support.logger - INFO - 
+Step failed: <given "Open main page">
+2021-08-05 20:56:52,018 - support.logger - INFO - 
+Started scenario: User sees correct categories under Browse
+2021-08-05 20:56:56,353 - support.logger - INFO - 
+Started step: <given "Open main page">
+2021-08-05 20:56:56,354 - support.logger - INFO - 
+Step failed: <given "Open main page">
+2021-08-05 20:57:26,578 - support.logger - INFO - 
+Started scenario: User sees correct categories under Browse
+2021-08-05 20:57:30,659 - support.logger - INFO - 
+Started step: <given "Open main page">
+2021-08-05 21:00:46,919 - support.logger - INFO - 
+Started scenario: User sees correct categories under Browse
+2021-08-05 21:01:07,535 - support.logger - INFO - 
+Started scenario: User sees correct categories under Browse
+2021-08-05 21:02:01,888 - support.logger - INFO - 
+Started scenario: User sees correct categories under Browse
+2021-08-05 21:03:48,173 - support.logger - INFO - 
+Started scenario: User sees correct categories under Browse
+2021-08-05 21:03:57,697 - support.logger - INFO - 
+Started scenario: User sees correct categories under Browse
+2021-08-05 21:04:02,075 - support.logger - INFO - 
+Started step: <given "Open main page">
+2021-08-05 21:05:59,351 - support.logger - INFO - 
+Started scenario: User sees correct categories under Browse
+2021-08-05 21:06:05,393 - support.logger - INFO - 
+Started step: <given "Open main page">
+2021-08-05 21:09:20,964 - support.logger - INFO - 
+Started scenario: User sees correct categories under Browse
+2021-08-05 21:14:31,950 - support.logger - INFO - 
+Started scenario: User sees correct categories under Browse
+2021-08-05 21:14:36,370 - support.logger - INFO - 
+Started step: <given "Open main page">
+2021-08-05 21:45:30,516 - support.logger - INFO - 
+Started scenario: User sees correct categories under Browse
+2021-08-05 21:45:34,722 - support.logger - INFO - 
+Started step: <given "Open main page">
+2021-08-05 21:45:37,568 - support.logger - INFO - 
+Started step: <then "User sees correct categories under Browse">
+2021-08-05 22:17:13,517 - support.logger - INFO - 
+Started scenario: User sees click on categories under Browse and correct page opens
+2021-08-05 22:17:17,990 - support.logger - INFO - 
+Started step: <given "Open main page">
+2021-08-05 22:17:21,887 - support.logger - INFO - 
+Started step: <then "User clicks on categories under Browse and correct page opens">
+2021-08-05 22:17:22,730 - support.logger - INFO - 
+Step failed: <then "User clicks on categories under Browse and correct page opens">
+2021-08-05 22:17:50,387 - support.logger - INFO - 
+Started scenario: User sees click on categories under Browse and correct page opens
+2021-08-05 22:17:56,362 - support.logger - INFO - 
+Started step: <given "Open main page">
+2021-08-05 22:18:06,409 - support.logger - INFO - 
+Started scenario: User sees click on categories under Browse and correct page opens
+2021-08-05 22:18:11,083 - support.logger - INFO - 
+Started step: <given "Open main page">
+2021-08-05 22:18:16,468 - support.logger - INFO - 
+Started step: <then "User clicks on categories under Browse and correct page opens">
+2021-08-05 22:18:17,254 - support.logger - INFO - 
+Step failed: <then "User clicks on categories under Browse and correct page opens">
+2021-08-05 22:22:59,540 - support.logger - INFO - 
+Started scenario: User sees click on categories under Browse and correct page opens
+2021-08-05 22:23:05,739 - support.logger - INFO - 
+Started step: <given "Open main page">
+2021-08-05 22:23:09,360 - support.logger - INFO - 
+Started step: <then "User clicks on categories under Browse and correct page opens">
+2021-08-05 22:25:01,719 - support.logger - INFO - 
+Started scenario: User sees click on categories under Browse and correct page opens
+2021-08-05 22:25:06,127 - support.logger - INFO - 
+Started step: <given "Open main page">
+2021-08-05 22:25:09,309 - support.logger - INFO - 
+Started step: <then "User clicks on categories under Browse and correct page opens">
+2021-08-05 22:25:09,579 - support.logger - INFO - 
+Step failed: <then "User clicks on categories under Browse and correct page opens">
+2021-08-05 22:38:02,057 - support.logger - INFO - 
+Started scenario: User sees click on categories under Browse and correct page opens
+2021-08-05 22:38:06,548 - support.logger - INFO - 
+Started step: <given "Open main page">
+2021-08-05 22:38:09,890 - support.logger - INFO - 
+Started step: <then "User clicks on categories under Browse and correct page opens">
+2021-08-05 22:40:11,433 - support.logger - INFO - 
+Started scenario: User sees correct categories under Browse
+2021-08-05 22:40:15,736 - support.logger - INFO - 
+Started step: <given "Open main page">
+2021-08-05 22:40:19,129 - support.logger - INFO - 
+Started step: <then "User sees correct categories under Browse">
+2021-08-05 22:40:21,886 - support.logger - INFO - 
+Started scenario: User sees click on categories under Browse and correct page opens
+2021-08-05 22:40:25,969 - support.logger - INFO - 
+Started step: <given "Open main page">
+2021-08-05 22:40:29,397 - support.logger - INFO - 
+Started step: <then "User clicks on categories under Browse and correct page opens">
