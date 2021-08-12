@@ -25,3 +25,4 @@ class MainPage(Page):
             actual_text = self.find_element(By.CSS_SELECTOR,"nav span.divider").text
             self.verify_url_contains_query(actual_text)
             self.driver.back()
+

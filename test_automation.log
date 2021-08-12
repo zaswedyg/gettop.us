@@ -106,3 +106,277 @@ Started scenario: User sees click on categories under Browse and correct page op
 Started step: <given "Open main page">
 2021-08-05 22:40:29,397 - support.logger - INFO - 
 Started step: <then "User clicks on categories under Browse and correct page opens">
+2021-08-05 22:59:10,139 - support.logger - INFO - 
+Started scenario: User sees click on categories under Browse and correct page opens
+2021-08-05 22:59:15,918 - support.logger - INFO - 
+Started step: <given "Open main page">
+2021-08-05 22:59:20,793 - support.logger - INFO - 
+Started step: <then "User clicks on categories under Browse and correct page opens">
+2021-08-09 22:15:57,162 - support.logger - INFO - 
+Started scenario: User can open and close Quick View by clicking on closing X
+2021-08-09 22:16:01,883 - support.logger - INFO - 
+Started step: <given "Open Shop page">
+2021-08-09 22:16:01,888 - support.logger - INFO - 
+Step failed: <given "Open Shop page">
+2021-08-09 22:16:58,216 - support.logger - INFO - 
+Started scenario: User can open and close Quick View by clicking on closing X
+2021-08-09 22:17:04,951 - support.logger - INFO - 
+Started step: <given "Open Shop page">
+2021-08-09 22:17:10,562 - support.logger - INFO - 
+Started step: <when "Open Quick View">
+2021-08-09 22:22:03,320 - support.logger - INFO - 
+Started scenario: User can open and close Quick View by clicking on closing X
+2021-08-09 22:22:07,535 - support.logger - INFO - 
+Started step: <given "Open Shop page">
+2021-08-09 22:22:13,779 - support.logger - INFO - 
+Started step: <when "Open Quick View">
+2021-08-09 22:22:14,774 - support.logger - INFO - 
+Started step: <then "Verify user can close by clicking on X">
+2021-08-09 22:22:15,583 - support.logger - INFO - 
+Step failed: <then "Verify user can close by clicking on X">
+2021-08-09 22:24:44,399 - support.logger - INFO - 
+Started scenario: User can open and close Quick View by clicking on closing X
+2021-08-09 22:24:49,278 - support.logger - INFO - 
+Started step: <given "Open Shop page">
+2021-08-09 22:24:52,137 - support.logger - INFO - 
+Started step: <when "Open Quick View">
+2021-08-09 22:24:53,111 - support.logger - INFO - 
+Started step: <then "Verify user can close by clicking on X">
+2021-08-10 20:43:21,528 - support.logger - INFO - 
+Started scenario: User can open and close Quick View by clicking on closing X
+2021-08-10 20:43:25,884 - support.logger - INFO - 
+Started step: <given "Open Shop page">
+2021-08-10 20:43:30,409 - support.logger - INFO - 
+Started step: <when "Open Quick View">
+2021-08-10 20:43:31,455 - support.logger - INFO - 
+Started step: <then "Verify user can close by clicking on X">
+2021-08-11 20:26:34,672 - support.logger - INFO - 
+Started scenario: User can open and close Quick View by clicking on closing X
+2021-08-11 20:26:39,355 - support.logger - INFO - 
+Started step: <given "Open Shop page">
+2021-08-11 20:26:42,168 - support.logger - INFO - 
+Started step: <when "Open Quick View">
+2021-08-11 20:26:43,986 - support.logger - INFO - 
+Started step: <then "Verify user can close by clicking on X">
+2021-08-11 20:51:11,969 - support.logger - INFO - 
+Started scenario: User can click Quick View and add product to cart
+2021-08-11 20:51:17,781 - support.logger - INFO - 
+Started step: <given "Open Shop page">
+2021-08-11 20:51:23,502 - support.logger - INFO - 
+Started step: <when "Open Quick View">
+2021-08-11 20:51:24,475 - support.logger - INFO - 
+Started step: <then "Verify user can add product to cart">
+2021-08-11 20:51:25,341 - support.logger - INFO - 
+Step failed: <then "Verify user can add product to cart">
+2021-08-11 20:52:09,261 - support.logger - INFO - 
+Started scenario: User can click Quick View and add product to cart
+2021-08-11 20:52:14,039 - support.logger - INFO - 
+Started step: <given "Open Shop page">
+2021-08-11 20:52:16,886 - support.logger - INFO - 
+Started step: <when "Open Quick View">
+2021-08-11 20:52:18,459 - support.logger - INFO - 
+Started step: <then "Verify user can add product to cart">
+2021-08-11 20:52:19,290 - support.logger - INFO - 
+Step failed: <then "Verify user can add product to cart">
+2021-08-11 20:54:07,173 - support.logger - INFO - 
+Started scenario: User can click Quick View and add product to cart
+2021-08-11 20:54:16,543 - support.logger - INFO - 
+Started step: <given "Open Shop page">
+2021-08-11 20:54:21,347 - support.logger - INFO - 
+Started step: <when "Open Quick View">
+2021-08-11 20:54:23,028 - support.logger - INFO - 
+Started step: <then "Verify user can add product to cart">
+2021-08-11 20:54:24,161 - support.logger - INFO - 
+Step failed: <then "Verify user can add product to cart">
+2021-08-11 20:55:09,298 - support.logger - INFO - 
+Started scenario: User can click Quick View and add product to cart
+2021-08-11 20:55:13,674 - support.logger - INFO - 
+Started step: <given "Open Shop page">
+2021-08-11 20:55:16,703 - support.logger - INFO - 
+Started step: <when "Open Quick View">
+2021-08-11 20:55:17,810 - support.logger - INFO - 
+Started step: <then "Verify user can add product to cart">
+2021-08-11 20:55:20,772 - support.logger - INFO - 
+Step failed: <then "Verify user can add product to cart">
+2021-08-11 20:56:06,910 - support.logger - INFO - 
+Started scenario: User can click Quick View and add product to cart
+2021-08-11 20:56:12,794 - support.logger - INFO - 
+Started step: <given "Open Shop page">
+2021-08-11 20:56:16,152 - support.logger - INFO - 
+Started step: <when "Open Quick View">
+2021-08-11 20:56:17,334 - support.logger - INFO - 
+Started step: <then "Verify user can add product to cart">
+2021-08-11 20:57:24,510 - support.logger - INFO - 
+Started scenario: User can click Quick View and add product to cart
+2021-08-11 20:57:29,509 - support.logger - INFO - 
+Started step: <given "Open Shop page">
+2021-08-11 20:57:33,889 - support.logger - INFO - 
+Started step: <when "Open Quick View">
+2021-08-11 20:57:35,180 - support.logger - INFO - 
+Started step: <then "Verify user can add product to cart">
+2021-08-11 20:57:37,408 - support.logger - INFO - 
+Step failed: <then "Verify user can add product to cart">
+2021-08-11 20:58:21,732 - support.logger - INFO - 
+Started scenario: User can click Quick View and add product to cart
+2021-08-11 20:58:26,017 - support.logger - INFO - 
+Started step: <given "Open Shop page">
+2021-08-11 20:58:29,247 - support.logger - INFO - 
+Started step: <when "Open Quick View">
+2021-08-11 20:58:30,218 - support.logger - INFO - 
+Started step: <then "Verify user can add product to cart">
+2021-08-11 21:19:28,075 - support.logger - INFO - 
+Started scenario: User can click through multiple product pages by clicking 1, 2 for page number
+2021-08-11 21:19:32,722 - support.logger - INFO - 
+Started step: <given "Open Shop page">
+2021-08-11 21:19:35,177 - support.logger - INFO - 
+Started step: <then "Verify user can click through multiple product pages by clicking 1, 2 for page number">
+2021-08-11 21:19:37,345 - support.logger - INFO - 
+Step failed: <then "Verify user can click through multiple product pages by clicking 1, 2 for page number">
+2021-08-11 21:22:24,275 - support.logger - INFO - 
+Started scenario: User can click through multiple product pages by clicking 1, 2 for page number
+2021-08-11 21:22:28,523 - support.logger - INFO - 
+Started step: <given "Open Shop page">
+2021-08-11 21:22:31,230 - support.logger - INFO - 
+Started step: <then "Verify user can click through multiple product pages by clicking 1, 2 for page number">
+2021-08-11 21:22:33,509 - support.logger - INFO - 
+Step failed: <then "Verify user can click through multiple product pages by clicking 1, 2 for page number">
+2021-08-11 21:24:50,727 - support.logger - INFO - 
+Started scenario: User can click through multiple product pages by clicking 1, 2 for page number
+2021-08-11 21:24:56,271 - support.logger - INFO - 
+Started step: <given "Open Shop page">
+2021-08-11 21:24:58,868 - support.logger - INFO - 
+Started step: <then "Verify user can click through multiple product pages by clicking 1, 2 for page number">
+2021-08-11 21:32:22,534 - support.logger - INFO - 
+Started scenario: User can click through multiple product pages by clicking 1, 2 for page number
+2021-08-11 21:32:25,961 - support.logger - INFO - 
+Started step: <given "Open Shop page">
+2021-08-11 21:32:28,533 - support.logger - INFO - 
+Started step: <then "Verify user can click through multiple product pages by clicking 1, 2 for page number">
+2021-08-11 21:32:31,204 - support.logger - INFO - 
+Step failed: <then "Verify user can click through multiple product pages by clicking 1, 2 for page number">
+2021-08-11 21:34:11,010 - support.logger - INFO - 
+Started scenario: User can click through multiple product pages by clicking 1, 2 for page number
+2021-08-11 21:34:15,455 - support.logger - INFO - 
+Started step: <given "Open Shop page">
+2021-08-11 21:34:19,908 - support.logger - INFO - 
+Started step: <then "Verify user can click through multiple product pages by clicking 1, 2 for page number">
+2021-08-11 21:34:23,245 - support.logger - INFO - 
+Step failed: <then "Verify user can click through multiple product pages by clicking 1, 2 for page number">
+2021-08-11 21:37:04,428 - support.logger - INFO - 
+Started scenario: User can click through multiple product pages by clicking 1, 2 for page number
+2021-08-11 21:37:08,213 - support.logger - INFO - 
+Started step: <given "Open Shop page">
+2021-08-11 21:37:12,702 - support.logger - INFO - 
+Started step: <then "Verify user can click through multiple product pages by clicking 1, 2 for page number">
+2021-08-11 21:40:41,473 - support.logger - INFO - 
+Started scenario: User can click through multiple product pages by clicking 1, 2 for page number
+2021-08-11 21:40:45,857 - support.logger - INFO - 
+Started step: <given "Open Shop page">
+2021-08-11 21:40:48,727 - support.logger - INFO - 
+Started step: <then "Verify user can click through multiple product pages by clicking 1, 2 for page number">
+2021-08-11 21:42:37,065 - support.logger - INFO - 
+Started scenario: User can click through multiple product pages by clicking 1, 2 for page number
+2021-08-11 21:42:40,863 - support.logger - INFO - 
+Started step: <given "Open Shop page">
+2021-08-11 21:42:49,557 - support.logger - INFO - 
+Started step: <then "Verify user can click through multiple product pages by clicking 1, 2 for page number">
+2021-08-11 21:42:55,495 - support.logger - INFO - 
+Step failed: <then "Verify user can click through multiple product pages by clicking 1, 2 for page number">
+2021-08-11 21:46:15,728 - support.logger - INFO - 
+Started scenario: User can click through multiple product pages by clicking 1, 2 for page number
+2021-08-11 21:46:19,423 - support.logger - INFO - 
+Started step: <given "Open Shop page">
+2021-08-11 21:46:22,511 - support.logger - INFO - 
+Started step: <then "Verify user can click through multiple product pages by clicking 1, 2 for page number">
+2021-08-11 21:46:27,393 - support.logger - INFO - 
+Step failed: <then "Verify user can click through multiple product pages by clicking 1, 2 for page number">
+2021-08-11 21:47:13,419 - support.logger - INFO - 
+Started scenario: User can click through multiple product pages by clicking 1, 2 for page number
+2021-08-11 21:47:19,889 - support.logger - INFO - 
+Started step: <given "Open Shop page">
+2021-08-11 21:47:28,456 - support.logger - INFO - 
+Started step: <then "Verify user can click through multiple product pages by clicking 1, 2 for page number">
+2021-08-11 21:47:33,488 - support.logger - INFO - 
+Step failed: <then "Verify user can click through multiple product pages by clicking 1, 2 for page number">
+2021-08-11 21:48:18,195 - support.logger - INFO - 
+Started scenario: User can click through multiple product pages by clicking 1, 2 for page number
+2021-08-11 21:48:22,786 - support.logger - INFO - 
+Started step: <given "Open Shop page">
+2021-08-11 21:48:25,555 - support.logger - INFO - 
+Started step: <then "Verify user can click through multiple product pages by clicking 1, 2 for page number">
+2021-08-11 21:48:31,506 - support.logger - INFO - 
+Step failed: <then "Verify user can click through multiple product pages by clicking 1, 2 for page number">
+2021-08-11 21:49:33,732 - support.logger - INFO - 
+Started scenario: User can click through multiple product pages by clicking 1, 2 for page number
+2021-08-11 21:49:39,937 - support.logger - INFO - 
+Started step: <given "Open Shop page">
+2021-08-11 21:49:42,901 - support.logger - INFO - 
+Started step: <then "Verify user can click through multiple product pages by clicking 1, 2 for page number">
+2021-08-11 21:51:13,085 - support.logger - INFO - 
+Started scenario: User can click through multiple product pages by clicking 1, 2 for page number
+2021-08-11 21:51:18,548 - support.logger - INFO - 
+Started step: <given "Open Shop page">
+2021-08-11 21:51:22,994 - support.logger - INFO - 
+Started step: <then "Verify user can click through multiple product pages by clicking 1, 2 for page number">
+2021-08-11 22:11:06,394 - support.logger - INFO - 
+Started scenario: User can click through multiple product pages by clicking 1, 2 for page number
+2021-08-11 22:11:11,142 - support.logger - INFO - 
+Started step: <given "Open Shop page">
+2021-08-11 22:11:15,996 - support.logger - INFO - 
+Started step: <then "Verify user can click through multiple product pages by clicking 1, 2 for page number">
+2021-08-11 22:17:55,046 - support.logger - INFO - 
+Started scenario: User can click trough multiple product pages by clicking > and <
+2021-08-11 22:18:01,981 - support.logger - INFO - 
+Started step: <given "Open Shop page">
+2021-08-11 22:18:06,549 - support.logger - INFO - 
+Started step: <then "Verify user can click trough multiple product pages by clicking > and <">
+2021-08-11 22:18:09,357 - support.logger - INFO - 
+Step failed: <then "Verify user can click trough multiple product pages by clicking > and <">
+2021-08-11 22:22:35,139 - support.logger - INFO - 
+Started scenario: User can click trough multiple product pages by clicking > and <
+2021-08-11 22:22:39,220 - support.logger - INFO - 
+Started step: <given "Open Shop page">
+2021-08-11 22:22:47,871 - support.logger - INFO - 
+Started step: <then "Verify user can click trough multiple product pages by clicking > and <">
+2021-08-11 22:25:29,039 - support.logger - INFO - 
+Started scenario: User can click trough multiple product pages by clicking > and <
+2021-08-11 22:25:33,207 - support.logger - INFO - 
+Started step: <given "Open Shop page">
+2021-08-11 22:25:35,947 - support.logger - INFO - 
+Started step: <then "Verify user can click trough multiple product pages by clicking > and <">
+2021-08-11 22:25:40,766 - support.logger - INFO - 
+Step failed: <then "Verify user can click trough multiple product pages by clicking > and <">
+2021-08-11 22:30:56,149 - support.logger - INFO - 
+Started scenario: User can click trough multiple product pages by clicking > and <
+2021-08-11 22:31:00,820 - support.logger - INFO - 
+Started step: <given "Open Shop page">
+2021-08-11 22:31:08,234 - support.logger - INFO - 
+Started step: <then "Verify user can click trough multiple product pages by clicking > and <">
+2021-08-11 22:32:04,435 - support.logger - INFO - 
+Started scenario: User can open and close Quick View by clicking on closing X
+2021-08-11 22:32:08,879 - support.logger - INFO - 
+Started step: <given "Open Shop page">
+2021-08-11 22:32:13,683 - support.logger - INFO - 
+Started step: <when "Open Quick View">
+2021-08-11 22:32:15,164 - support.logger - INFO - 
+Started step: <then "Verify user can close by clicking on X">
+2021-08-11 22:32:17,420 - support.logger - INFO - 
+Started scenario: User can click Quick View and add product to cart
+2021-08-11 22:32:23,171 - support.logger - INFO - 
+Started step: <given "Open Shop page">
+2021-08-11 22:32:30,085 - support.logger - INFO - 
+Started step: <when "Open Quick View">
+2021-08-11 22:32:31,853 - support.logger - INFO - 
+Started step: <then "Verify user can add product to cart">
+2021-08-11 22:32:35,955 - support.logger - INFO - 
+Started scenario: User can click through multiple product pages by clicking 1, 2 for page number
+2021-08-11 22:32:41,557 - support.logger - INFO - 
+Started step: <given "Open Shop page">
+2021-08-11 22:32:44,801 - support.logger - INFO - 
+Started step: <then "Verify user can click through multiple product pages by clicking 1, 2 for page number">
+2021-08-11 22:32:50,696 - support.logger - INFO - 
+Started scenario: User can click trough multiple product pages by clicking > and <
+2021-08-11 22:32:57,669 - support.logger - INFO - 
+Started step: <given "Open Shop page">
+2021-08-11 22:33:02,217 - support.logger - INFO - 
+Started step: <then "Verify user can click trough multiple product pages by clicking > and <">
