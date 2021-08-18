@@ -18,3 +18,13 @@ Feature: Products
   Scenario: User can click trough multiple product pages by clicking > and <
     Given Open Shop page
     Then Verify user can click trough multiple product pages by clicking > and <
+
+  Scenario: "No products were found matching your selection." message shown if no products match selected filters
+    Given Open Shop page
+    When Selecting non-match filter
+    Then Verify "No products were found matching your selection." message appears
+
+  Scenario: If user resets applied filters from No match, the products are shown
+    Given Open Shop page
+    When Selecting non-match filter
+    Then Clear filter and verify products are displayed

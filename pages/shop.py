@@ -1,4 +1,5 @@
 from selenium.webdriver.common.by import By
+from selenium.webdriver.common.action_chains import ActionChains
 from pages.base_page import Page
 
 class Shop(Page):
@@ -56,3 +57,23 @@ class Shop(Page):
                 break
             self.verify_url_contains_query(actual_text)
         assert self.driver.current_url == self.SHOP_URL, f'Expected {self.SHOP_URL}, but got self.driver.current_url'
+
+
+    def select_extreme_filter(self):
+        left_filter = self.find_element(By.CSS_SELECTOR, "span.ui-slider-handle[style='left: 0%;']")
+        actions = ActionChains(self.driver)
+        actions.drag_and_drop_by_offset(left_filter, 250, 0)
+        actions.perform()
+
+    def press_filter_button(self):
+        self.click(By.CSS_SELECTOR, "div.price_slider_amount button.button")
+
+    def verify_no_product_found_message_appears(self):
+        assert self.find_element(By.CSS_SELECTOR, "p.woocommerce-info")
+
+    def clear_filter_and_verify_products_are_displayed(self):
+        filters = self.find_elements(By.XPATH, "//aside//li//a//span[@class='woocommerce-Price-currencySymbol']")
+        for i in range(len(filters)):
+            self.find_element(By.XPATH, "//aside//li//a//span[@class='woocommerce-Price-currencySymbol']").click()
+        products = self.find_elements(By.CSS_SELECTOR, "div.product")
+        assert len(products) == 12, f'Expected 12, but got {len(products)}'

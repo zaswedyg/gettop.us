@@ -19,7 +19,7 @@ def browser_init(context, test_name):
     # context.browser = webdriver.Safari()
     # context.driver = webdriver.Firefox(executable_path='/Users/svetlanalevinsohn/Desktop/QAAuto6/python-selenium-automation-6/geckodriver')
 
-    ### HEADLESS MODE ####
+    # ### HEADLESS MODE ####
     # options = webdriver.ChromeOptions()
     # options.add_argument('--headless')
     # context.driver = webdriver.Chrome(chrome_options=options)
